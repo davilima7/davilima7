@@ -7,37 +7,25 @@
 
 ## 👨‍💻 Quem sou eu
 
-🙋‍♂️Sou Gabriel Damico tenho 19 anos e amo tecnologia em geral, acredito que através dela é possível impactar a vida de várias pessoas além de contribuir para o desenvolvimento de um mundo mais justo. Além disso, amo aprender coisas novas, conhecer novos lugares e novas histórias. Em meu tempo livre gosto de criar histórias de RPG com amigos e jogar online 🤓.
+Me chamo Davi Sousa Lima tenho 19 anos de idade.
 
-📖 Atualmente estou participando da Residência em TIC pelo Serratec 2023.1
+📚 Além disso, Estou concluindo o Ensino Medio no Instituto Federal de Educação Ciencia e Tecnologia do Maranhão + Curso Tecnico de Informatica </a>e a previsão de conclusão do curso é em 01/2025.
 
-📚 Além disso, também estou no 3° periodo de Ciência da Computação na <a href="https://descomplica.com.br/faculdade/"> Faculdade Descomplica </a>e a previsão de conclusão do curso é em 12/2026
-
+📖 Tive meu TCC aprovado com 9,93 com o tema -Mapeamento e implementação de plataforma na prevenção de cibercrimes-.
 <br/>
 
 ## 📂 O que você vai encontrar no meu perfil
 
-A maioria de meus projetos são uma mistura de coisas que eu criei por conta própria, trabalhos da faculdade e cursos que fiz, então você pode esperar ver um pouco de tudo por aqui.
-
-- ▶ <a href="https://github.com/Arawns1/Atividades-Faculdade">Trabalhos da faculdade</a>
-- ▶ <a href= "https://github.com/Arawns1/Serratec-2023.1"> Projetos realizados no Serratec 2023.1 </a>
+A maioria de meus projetos são trabalhos do cursos que faço, então você pode esperar ver um pouco de tudo por aqui.
 
 <br/>
 
  ## 💻Tecnologias que uso:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
-![Postgree](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![GIT](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=E34F26)
-![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
-
-## ✨Tecnologias que tenho interesse:
-![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br/>
 
@@ -63,11 +51,7 @@ A maioria de meus projetos são uma mistura de coisas que eu criei por conta pr�
 E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo pelos contatos abaixo! Estou sempre procurando aprender mais e trocar ideias.
 
 <div align="center"> 
-<a href = "mailto:gabrieldamico22@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-damico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.behance.net/arawns_designer" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&color=0067ff&logo=behance&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "" target="_blank"> <img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white&color=7289da" ></a>
-<a href = "https://www.hackerrank.com/arawns" target ="_blank"> <img src ="https://img.shields.io/badge/-Hackerrank-230077B5?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+<a href = "daviabc923@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
